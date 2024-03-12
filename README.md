@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AntonioM788/AntonioM788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <img src="https://cdn.pixabay.com/photo/2023/09/25/19/58/piran-8275931_1280.jpg">
